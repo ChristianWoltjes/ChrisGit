@@ -1,4 +1,4 @@
 # ChrisGit
 
-Meine Start mit GitHub.
-...nd nun mein erster Commit.
+Mein Start mit GitHub.
+...und nun mein erster Commit.
